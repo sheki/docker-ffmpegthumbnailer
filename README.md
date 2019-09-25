@@ -1,1 +1,1 @@
-# Docker file that to build the latest version of ffmpegthumbnailer
+# Docker file to build the latest version of ffmpegthumbnailer
